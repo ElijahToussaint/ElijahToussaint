@@ -7,7 +7,7 @@ Unlike proprietary software, free and open-source software (FOSS) is software th
 ### What do I do?
 I focus on designing, maintaining, and contributing to software that is decentralized and federated.
 
-### Contribute
+### Where can I contribute?
 Help me continue to bring free and open-source software to the world.
 
 #### Bitcoin (BTC):
