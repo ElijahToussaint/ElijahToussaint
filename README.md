@@ -11,20 +11,16 @@ I focus on designing, maintaining, and contributing to software that is decentra
 Help me continue to bring free and open-source software to the world.
 
 #### Bitcoin (BTC):
-1HBJvnhMriS48xuDHBYVn3zcBAr7gJfq1Q
+3BDLocyfxTsWBqfSxkq6QDsQedVYpN5FHz
 
 #### Ethereum (ETH):
-0x290076254B01905cdF1DD207D718e1Cca73E8aDc
+0x2dad66c8e16e71df295a5110df1af42720007d01
 
 #### Bitcoin Cash (BCH):
-bitcoincash:qzwyf6xg08ac8lcaqzdrphlgzjjpq970yv393kc6n9
+bitcoincash:pznhv467xaml4akgstss27trgw564wx6c57gmanh3q
 
 #### Litecoin (LTC):
-LTYfsTszGgYE2hYAQN99iWBRYEGEvMDTMs
+LUQK2dsBCTbknVNvTwqCjBjaHNKMB8GQ7E
 
 #### Monero (XMR):
-45CmBzHDf5RNGpMgUfTkiu9zBU5KcFDtVByA5EvnpojzWkTK7NDFzMVEHF8qkTT8WDS6dGN56LB9kfWszwqnTZmyDMv9jCq
-
-
-#### QR Codes:
-<a href="https://www.bitcoinqrcodemaker.com"><img src="https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&amp;address=1HBJvnhMriS48xuDHBYVn3zcBAr7gJfq1Q" alt="Bitcoin QR Code Generator" height="150" width="150" border="0" /></a> <a href="https://www.bitcoinqrcodemaker.com"><img src="https://www.bitcoinqrcodemaker.com/api/?style=ethereum&amp;address=0x290076254B01905cdF1DD207D718e1Cca73E8aDc" alt="Ethereum QR Code Generator" height="150" width="150" border="0" /></a> <a href="https://www.bitcoinqrcodemaker.com"><img src="https://www.bitcoinqrcodemaker.com/api/?style=bitcoincash&amp;address=qzwyf6xg08ac8lcaqzdrphlgzjjpq970yv393kc6n9" alt="Bitcoin Cash QR Code Generator" height="150" width="150" border="0" /></a> <a href="https://www.bitcoinqrcodemaker.com"><img src="https://www.bitcoinqrcodemaker.com/api/?style=litecoin&amp;address=LTYfsTszGgYE2hYAQN99iWBRYEGEvMDTMs" alt="Litecoin QR Code Generator" height="150" width="150" border="0" /></a> <a href="https://www.bitcoinqrcodemaker.com"><img src="https://www.bitcoinqrcodemaker.com/api/?style=monero&amp;address=45CmBzHDf5RNGpMgUfTkiu9zBU5KcFDtVByA5EvnpojzWkTK7NDFzMVEHF8qkTT8WDS6dGN56LB9kfWszwqnTZmyDMv9jCq" alt="Monero QR Code Generator" height="150" width="150" border="0" /></a>
+83ub5GBLNpFBuHTXtdxJ9NhJZuCJ9ev5JG3hsHKbc5ADBUC3NPLc8AzdYEPG6BtfJXD8uGGvhGDtAULn4LPjE6ve8eSw3z8
