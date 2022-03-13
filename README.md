@@ -16,6 +16,9 @@ Help me continue to bring free and open-source software to the world.
 #### Dash (DASH):
 XfQ2kvpQBKWjiDpCUe7G4RukrQN2YvVy7Y
 
+#### Decred (DCR):
+DsmY8faTfmFKcf2onqfayKz3hkzZqBdqVJr
+
 #### Zcash (ZEC):
 t1YKzhroHjPwUwc5uxU7t4RP2rCt6FDo2ee
 
@@ -26,6 +29,9 @@ t1YKzhroHjPwUwc5uxU7t4RP2rCt6FDo2ee
   </td>
   <td>
     <img src="https://user-images.githubusercontent.com/18597457/158048024-13bf54dd-89bf-4097-a3d4-cb8f8c4b6ce9.png"  alt="Dash_QR">
+  </td>
+  <td>
+    <img src="https://user-images.githubusercontent.com/18597457/158049569-b1904338-81d7-41c5-93a2-21c0236b992b.png"  alt="Decred_QR">
   </td>
   <td>
     <img src="https://user-images.githubusercontent.com/18597457/158048072-2026c14d-6be8-4743-9e95-fd46da64b62d.png" alt="Zcash_QR">
