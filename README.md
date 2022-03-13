@@ -10,36 +10,24 @@ I focus on designing, maintaining, and contributing to software that is decentra
 ### Where can I contribute?
 Help me continue to bring free and open-source software to the world.
 
-#### Bitcoin (BTC):
-3BDLocyfxTsWBqfSxkq6QDsQedVYpN5FHz
-
-#### Ethereum (ETH):
-0x2dad66c8e16e71df295a5110df1af42720007d01
-
-#### Bitcoin Cash (BCH):
-bitcoincash:pznhv467xaml4akgstss27trgw564wx6c57gmanh3q
-
-#### Litecoin (LTC):
-LUQK2dsBCTbknVNvTwqCjBjaHNKMB8GQ7E
-
 #### Monero (XMR):
-83ub5GBLNpFBuHTXtdxJ9NhJZuCJ9ev5JG3hsHKbc5ADBUC3NPLc8AzdYEPG6BtfJXD8uGGvhGDtAULn4LPjE6ve8eSw3z8
+44tUtL754iP1uM1Vet2uUqJtLNCfgDCdjFqtSjg58oUYT576G47xdzjYoRrFhUr66obzLtFuBprMjBt1YfiKy2SpAqocWS8
+
+#### Dash (DASH):
+XfQ2kvpQBKWjiDpCUe7G4RukrQN2YvVy7Y
+
+#### Zcash (ZEC):
+t1YKzhroHjPwUwc5uxU7t4RP2rCt6FDo2ee
 
 ### QR Codes
 <table style="width: 100%;">
   <td>
-    <img src="https://user-images.githubusercontent.com/18597457/152245885-a4da09af-298f-4571-b22e-c0d07e5361a4.png" alt="Bitcoin_QR">
+    <img src="https://user-images.githubusercontent.com/18597457/158047953-d0afe7fc-053a-4591-8e47-273c228df66d.png" alt="Monero_QR">
   </td>
   <td>
-    <img src="https://user-images.githubusercontent.com/18597457/152245983-82b3e20b-93b8-4adb-89b9-66fa2c3cf9de.png" alt="Ethereum_QR">
+    <img src="https://user-images.githubusercontent.com/18597457/158048024-13bf54dd-89bf-4097-a3d4-cb8f8c4b6ce9.png"  alt="Dash_QR">
   </td>
   <td>
-    <img src="https://user-images.githubusercontent.com/18597457/152246161-749ae041-14d4-4a6b-9180-86411f1dd799.png" alt="BitcoinCash_QR">
-  </td>
-  <td>
-    <img src="https://user-images.githubusercontent.com/18597457/152246270-9002fc8e-da32-4660-b062-53f54d19c95a.png" alt="Litecoin_QR">
-  </td>
-  <td>
-    <img src="https://user-images.githubusercontent.com/18597457/152246350-7e9b38e0-9c4f-4a2d-821b-54a525f92d4f.png" alt="Monero_QR">
+    <img src="https://user-images.githubusercontent.com/18597457/158048072-2026c14d-6be8-4743-9e95-fd46da64b62d.png" alt="Zcash_QR">
   </td>
 </table>
